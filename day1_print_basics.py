@@ -1,4 +1,5 @@
-# Day 1: Python Print Basics
+# Day 1 Python print practice
+
 
 # 1. Simple print
 print("Hello, Python")
